@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Germán<a/>! 👋 </br> <b>Software Engineer 🧑🏻‍💻</b>
 
-<!--
-**NogyOne/NogyOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I am a Software Engineer with a strong desire to learn and take on new challenges particularly on web development, especially Front-end. However, I also possess skills in Back-end development.💼 </br>
+I am committed to staying updated with the latest technologies to deliver
+innovative solutions.🌟
 
-Here are some ideas to get you started:
+I'm currently working on personal projects for my portfolio.🦑💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies 🛠️
+- <b>Programming Languages:</b> Javascript & Java.
+- <b>Front-end:</b> HTML, CSS, React, Next, Bootstrap, Electron & TailwindCSS.
+- <b>Back-end:</b> Node, Express, Mongoose & Prisma.
+- <b>Databases:</b> SQL & NoSQL (MongoDB & MySQL).
+- <b>Tools:</b> Git.
+
+## Contact 📬
+📫 How to reach me germangl1205@gmail.com or connect with me on <a href="https://www.linkedin.com/in/nicolas-francken">LinkedIn<a/>
+
+
+
+
